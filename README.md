@@ -15,9 +15,9 @@ View the app here:- https://freedium.netlify.app
 App BackStory:-
 
 > Once you make a free account on Medium, Medium readers can only read a limited amount of locked stories per month.
-> <br/> > <br/>
+> <br/> <br/>
 > Medium allows you to read 3 locked stories for free per month as a sort of kind gesture, but after that they lock your profile down (if you’re not a member) and you can’t read more than a few paragraphs of any locked story afterwards.
-> <br/> > <br/>
+> <br/> <br/>
 > So the Medium reading limit is just three locked stories.
 
 This app is a **simple fun side-project** developed to view the Medium blogs any number of times of any user.
@@ -35,6 +35,8 @@ Highlights (few expected to be built):-
 #### Contributions
 
 Feel free to give your feedback and contributions are welcome!
+<br/>
+Encouraged to contribute, create issues and PR as much as you want. At the end, it's OpenSource. **Happy Coding!**
 
 <hr />
 
